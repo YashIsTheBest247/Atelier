@@ -347,8 +347,6 @@ POST /generate
 
 ---
 
-# Screenshots
-
 ## Hero Section
 
 - Atelier branding
